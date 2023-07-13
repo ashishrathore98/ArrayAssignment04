@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\bin\Debug\ArrayAssignment04.exe.config
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\bin\Debug\ArrayAssignment04.exe
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\bin\Debug\ArrayAssignment04.pdb
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\obj\Debug\ArrayAssignment04.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\obj\Debug\ArrayAssignment04.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\obj\Debug\ArrayAssignment04.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\obj\Debug\ArrayAssignment04.exe
+E:\Simplilearn course\Day4\ArrayAssignment04\ArrayAssignment04\obj\Debug\ArrayAssignment04.pdb
